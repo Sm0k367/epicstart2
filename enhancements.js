@@ -56,3 +56,5 @@ document.head.appendChild(enhancementStyles);
 
 // Notify user that enhancements are loaded
 console.log("Epic Tech AI enhancements initialized");
+// Notify user that enhancements are loaded
+console.log("Epic Tech AI enhancements initialized");
